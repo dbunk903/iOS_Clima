@@ -97,7 +97,7 @@
 				CAAF689F2846465100BE135C /* WeatherData.swift */,
 				CA910241284882C200A2101D /* WeatherModel.swift */,
 			);
-			path = Model;
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
